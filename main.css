@@ -1106,6 +1106,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   font-size: 13px;
   font-weight: 400;
 }
+.footer-2 ul li a img{}
 
 .footer-2 ul li a:hover {
   color: #00b4d9;
