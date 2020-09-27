@@ -1110,6 +1110,18 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 .footer-2 ul li a:hover {
   color: #00b4d9;
 }
+/* back to top*/
+.top{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    border: 1px solid pink;
+}
+.top p{
+	color: pink;
+    text-align: center;
+    padding-top: 5px;
+}
 
 #copyright {
   background: #333;
