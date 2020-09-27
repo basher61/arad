@@ -61,8 +61,8 @@ ul li, ol li {
   list-style: none;
 }
 /*logo*/
-img {
-    width: 60px;
+.navbar-brand img {
+    width: 50px;
 }
 .hero-heading {
   font-size: 48px;
@@ -210,29 +210,35 @@ button:focus {
   -webkit-transition: all 0.3s ease-in-out 0s;
   -o-transition: all 0.3s ease-in-out 0s;
 }
-
-.social-icon li a:hover {
-  color: #fff;
+.social-icon li a img{
+	padding-bottom:5px;
 }
 
-.social-icon li .facebook:hover {
+/* .social-icon li a:hover {
+  color: #fff;
+} */
+
+/* .social-icon li .facebook:hover {
   background: #3b5999;
+} */
+.social-icon li .facebook:hover {
+  background: #fff;
 }
 
 .social-icon li .twitter:hover {
-  background: #4A9CEC;
+  background: #fff;
 }
 
 .social-icon li .instagram:hover {
-  background: #D6274D;
+  background: #fff;
 }
 
 .social-icon li .linkedin:hover {
-  background: #1260A2;
+  background: #fff;
 }
 
 .social-icon li .google:hover {
-  background: #CE332A;
+  background: #fff;
 }
 
 /* ScrollToTop */
