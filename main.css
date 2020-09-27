@@ -1052,6 +1052,17 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   z-index: 101;
   width: 100%;
 }
+/*back to top*/
+.arrow-up{
+    color: grey;
+    width: 40px;
+    height: 40px;
+    border: 1px solid grey;
+    border-radius: 50%;
+    text-align: center;
+    background: transparent;
+    padding-top: 6px;
+}
 
 /* Footer Area Start */
 .footer-area {
