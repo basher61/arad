@@ -222,23 +222,23 @@ button:focus {
   background: #3b5999;
 } */
 .social-icon li .facebook:hover {
-  background: #fff;
+  background-color:gray;
 }
 
 .social-icon li .twitter:hover {
-  background: #fff;
+  background-color:gray;
 }
 
 .social-icon li .instagram:hover {
-  background: #fff;
+  background-color:gray;
 }
 
 .social-icon li .linkedin:hover {
-  background: #fff;
+  background-color:gray;
 }
 
 .social-icon li .google:hover {
-  background: #fff;
+  background-color:gray;
 }
 
 /* ScrollToTop */
